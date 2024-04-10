@@ -1,0 +1,19 @@
+input{
+    height:40px;
+    border:1px solid #efefef; 
+    width:100%;
+    margin:10px 0px 20px;
+    padding: 10px;
+}
+input:focus,textarea:focus {
+    transition: .3 all ease-in-out;
+	outline-color: #a9a9a9;
+}
+
+label{
+    margin-bottom: 10px;
+}
+
+.input{
+    width: 100%;
+}
